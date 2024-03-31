@@ -1,7 +1,7 @@
-# Hello, my name is ...
+# Hello, my name is Eki Akhigbe
 ### Marketing Analyst, Data Analyst & Product Management
 
-I'm currently trying to understand the Data Science and deploying E2E data solutions.    
+I'm currently trying to understand Data Science and deploying data solutions in retail, & marketing.    
 
 <!--
 https://ileriayo.github.io/markdown-badges/
