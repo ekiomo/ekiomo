@@ -1,5 +1,5 @@
 # Hello, my name is ...
-### Data Scientist in progress
+### Marketing Analyst, Data Analyst & Product Management
 
 I'm currently trying to understand the Data Science and deploying E2E data solutions.    
 
